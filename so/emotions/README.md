@@ -1,5 +1,5 @@
 # A Gold Standard for Emotion Annotation in Stack Overflow
-A Gold Standard 4,800 questions, answers, and comments from Stack Overflow, manually annotated for emotions. 
+A Gold Standard of ~4,800 questions, answers, and comments from Stack Overflow, manually annotated for emotions. 
 
 The dataset has been used for developing the [EMTk toolkit](https://collab-uniba.github.io/EMTk/) for emotion detection from technical text.
 
