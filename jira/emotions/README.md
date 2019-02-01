@@ -1,5 +1,5 @@
 # A Gold Standard for Emotion Annotation in Jira
-A Gold Standard of ~4,000 issues from Stack Overflow, manually annotated for emotions. 
+A Gold Standard of ~4,000 issues from the Jira issue tracker, manually annotated for emotions. 
 
 The dataset has been used for developing the [EMTk toolkit](https://collab-uniba.github.io/EMTk/) for emotion detection from technical text.
 
