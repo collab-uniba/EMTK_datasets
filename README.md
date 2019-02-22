@@ -1,4 +1,4 @@
-# EMTK_datasets
+# EMTK_datasets   [![DOI](https://zenodo.org/badge/167934534.svg)](https://zenodo.org/badge/latestdoi/167934534)
 Datasets distributed with the EMTk docker container (see [ETMK web page](https://collab-uniba.github.io/EMTk) for more).
 
 Available datasets:
