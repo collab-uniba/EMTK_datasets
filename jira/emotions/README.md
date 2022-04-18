@@ -3,7 +3,7 @@ A Gold Standard of ~4,000 issues from the Jira issue tracker, manually annotated
 
 The dataset has been used for developing the [EMTk toolkit](https://collab-uniba.github.io/EMTk/) for emotion detection from technical text.
 
-The train/test files refer to the binary version of the dataset where:
+The train/test files refer to the multiclass polarity version of the dataset where:
 - love and joy are mapped into positive cases
 - sadness, fear, and anger are mapped into negative cases
 -  the absence of emotions defines neutral cases
