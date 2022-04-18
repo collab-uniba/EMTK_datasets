@@ -6,6 +6,7 @@ The dataset has been used for developing the [EMTk toolkit](https://collab-uniba
 The train/test files refer to the binary version of the dataset where:
 - love and joy are mapped into positive cases
 - sadness, fear, and anger are mapped into negative cases
+-  the absence of emotions defines neutral cases
 - surprise cases were discarded
 
 ## Fair Use Policy
